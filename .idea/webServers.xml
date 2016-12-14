@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7fad21d0-4365-41f4-9a5f-1665e2b9f10e" name="multi" url="http://ftp.edu-portail.com">
+        <fileTransfer host="ftp.edu-portail.com" port="21" rootFolder="/public_html" username="edupo169">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
